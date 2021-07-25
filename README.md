@@ -10,4 +10,6 @@ The Project uses Machine Learning and 4 different Machine Learning models to pre
 
 ## Authors
 Prinson Fernandes
+-----------------
 Rishabh R
+-----------------
