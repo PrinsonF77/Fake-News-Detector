@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Coding\\Git Projects\\Detector-de-fake-news\\bin\\jsoup-1.12.1.jar",
+            "c:\\Coding\\Git Projects\\javafx-sdk-16\\lib\\javafx.base.jar",
+            "c:\\Coding\\Git Projects\\javafx-sdk-16\\lib\\javafx.controls.jar",
+            "c:\\Coding\\Git Projects\\javafx-sdk-16\\lib\\javafx.fxml.jar",
+            "c:\\Coding\\Git Projects\\javafx-sdk-16\\lib\\javafx.graphics.jar",
+            "c:\\Coding\\Git Projects\\javafx-sdk-16\\lib\\javafx.media.jar",
+            "c:\\Coding\\Git Projects\\javafx-sdk-16\\lib\\javafx.swing.jar",
+            "c:\\Coding\\Git Projects\\javafx-sdk-16\\lib\\javafx.web.jar",
+            "c:\\Coding\\Git Projects\\javafx-sdk-16\\lib\\javafx-swt.jar"
+        ]
+    }
+}
