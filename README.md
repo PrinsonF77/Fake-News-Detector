@@ -1,14 +1,13 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The Project uses Machine Learning and 4 different Machine Learning models to predict whether news entered is fake or not. The models were trained using datasets with news up until the year 2017. Any real news entered after 2017 might get classified as FAKE! 
 
-## Folder Structure
+## Set Up
 
-The workspace contains two folders by default, where:
+1) Make sure that you install the javafx SDK as the App.java file requires it.
+2) Compile the App.java file using the command present in the runcmd.txt file.
+3) In case the python code gives errors, rerun the whole python notebook present in the src directory and replace the files created by the python notebook with the ones already present in the models directory and you should be good to go. 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Authors
+Prinson Fernandes
+Rishabh R
